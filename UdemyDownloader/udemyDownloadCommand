@@ -1,0 +1,3 @@
+
+udl -u user -p password https://www.udemy.com/the-complete-guide-to-angular-2  -r 720 -o /home/laczovics/Asztal/UdemyDownloader/downloads
+
